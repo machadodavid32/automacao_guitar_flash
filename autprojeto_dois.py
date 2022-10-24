@@ -33,3 +33,4 @@ while keyboard.is_pressed('1') == False:
         pyautogui.press('l')
         sleep(0.01)
 
+# pixelMatchesColor ->  verifica a cor de um pixel
